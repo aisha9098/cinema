@@ -2,5 +2,5 @@
 NUMBER1=$1
 NUMBER2=$2
 
-sum=$((NUMBER1+NUMBER2))
-echo "addition of 2number is:$sum
+SUM=$((NUMBER1+NUMBER2))
+echo "addition of 2number is:$SUM"
